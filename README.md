@@ -1,12 +1,13 @@
 ## Karla Walker 👽
 
-Hello! I'm Karla, a front-end focused, full-stack developer. I love designing and building delightful, user-friendly, digital experiences. 
+Hello! I'm Karla, a front-end developer, designer, student and occasional doodler.
 
-I'm currently looking for my first role as a web developer! Please reach out at <keiwalker@icloud.com> if you're interested in working together 😄.
+About me:
+- I'm a self-taught developer and went to school for graphic design
+- I'm currently in school working on my Computer Science BS degree
+- I love creating thoughtfully designed web experiences that focus on accessibility with a splash of CSS fun
+- Stay tuned for my updated personal site but in the meantime check out my current projects below!
 
-- Check out my portfolio: <https://karla.codes>
-- Follow me on LinkedIn: <https://www.linkedin.com/in/karladiazwalker/>
-- My coding doodles: <https://codepen.io/indiablonix>
 
 <!--
 **karla-codes/karla-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
