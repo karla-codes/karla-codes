@@ -1,12 +1,7 @@
 ## Karla Walker 👽
 
-Hello! I'm Karla, a front-end developer, designer, student and occasional doodler.
-
-About me:
-- I'm a self-taught developer and went to school for graphic design
-- I'm currently in school working on my Computer Science BS degree
-- I love creating thoughtfully designed web experiences that focus on accessibility with a splash of CSS fun
-- Stay tuned for my updated personal site but in the meantime check out my current projects below!
+Hello! I'm Karla a self-taught front-end developer and designer.
+**Stay tuned for my updated personal site but in the meantime check out some of my projects below!**
 
 
 <!--
