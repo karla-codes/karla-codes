@@ -1,7 +1,8 @@
 ## Karla Walker 👽
 
 Hello! I'm Karla a self-taught front-end developer and designer.
-**Stay tuned for my updated personal site but in the meantime check out some of my projects below!**
+
+*Stay tuned for my updated personal site and in the meantime check out some of my projects below!*
 
 
 <!--
