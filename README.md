@@ -1,8 +1,15 @@
 ## Karla Walker 👽
 
-Hello! I'm Karla a self-taught front-end developer and designer.
+Hello! I'm Karla (she/her), a self-taught front-end developer and designer. I'm currently in school working on my BS in Computer Science. 
 
-*Stay tuned for my updated personal site and in the meantime check out some of my projects below!*
+I love making delightful web experiences and find joy in the small, creative details. I'm curious of all aspects of web development and consistently work towards educating myself on concepts I'm less familiar with. 
+
+Some of my hobbies include: 
+- hanging out with my cats 🐱🐱🐱
+- doodling on my iPad ✍🏼
+- playing video games 🎮
+
+*Stay tuned for my updated personal site and in the meantime check out some of my pinned projects below!*
 
 
 <!--
