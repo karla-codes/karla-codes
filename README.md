@@ -1,6 +1,6 @@
 ## Karla Walker 👽
 
-Hello! I'm Karla (she/her), a self-taught front-end developer and designer. I'm currently in school working on my BS in Computer Science. 
+Hello! I'm Karla (she/her), a self-taught front-end developer and designer. 
 
 I love making delightful web experiences and find joy in the small, creative details. I'm curious of all aspects of web development and consistently work towards educating myself on concepts I'm less familiar with. 
 
